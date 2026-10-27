@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="22"/>
+  </filter>
+</defs>
+<rect width="1600" height="900" fill="#f4f4f6"/>
+<text x="410" y="78" text-anchor="middle" font-family="'PingFang SC','Hiragino Sans GB','Noto Sans SC',-apple-system,sans-serif" font-size="24" font-weight="600" fill="#2d2d33">A · 沿用空白区现有动作</text>
+<text x="1190" y="78" text-anchor="middle" font-family="'PingFang SC','Hiragino Sans GB','Noto Sans SC',-apple-system,sans-serif" font-size="24" font-weight="600" fill="#2d2d33">B · 照截图的全局动作</text>
+<circle cx="410" cy="457" r="300" fill="#000" opacity="0.10" filter="url(#blur)"/>
+<path d="M 197.86796564403576 232.86796564403573 A 300 300 0 0 1 622.1320343559643 232.86796564403576 L 410 445 Z" fill="#ffffff" opacity="0.94"/>
+<path d="M 622.1320343559643 232.86796564403576 A 300 300 0 0 1 622.1320343559643 657.1320343559643 L 410 445 Z" fill="#fcfcfd" opacity="0.94"/>
+<path d="M 622.1320343559643 657.1320343559643 A 300 300 0 0 1 197.86796564403576 657.1320343559643 L 410 445 Z" fill="#ffffff" opacity="0.94"/>
+<path d="M 197.86796564403576 657.1320343559643 A 300 300 0 0 1 197.8679656440357 232.86796564403576 L 410 445 Z" fill="#fcfcfd" opacity="0.94"/>
+<circle cx="410" cy="445" r="300" fill="none" stroke="#e9e9ee" stroke-width="1.2"/>
+<line x1="479.29646455628165" y1="514.2964645562816" x2="622.1320343559643" y2="657.1320343559643" stroke="#000" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="340.70353544371835" y1="514.2964645562816" x2="197.86796564403576" y2="657.1320343559643" stroke="#000" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="340.70353544371835" y1="375.70353544371835" x2="197.8679656440357" y2="232.86796564403576" stroke="#000" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="479.29646455628165" y1="375.70353544371835" x2="622.1320343559642" y2="232.8679656440357" stroke="#000" stroke-opacity="0.05" stroke-width="1"/>
+<circle cx="410" cy="445" r="98" fill="#ffffff" stroke="#ececf0" stroke-width="1.2"/>
+<circle cx="410" cy="445" r="11" fill="none" stroke="#ececf0" stroke-width="1"/>
+<circle cx="410" cy="445" r="4.5" fill="#c3c3c9"/>
+<g transform="translate(389 238)" fill="none" stroke="#4b4b52" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></g>
+<text x="410" y="305" text-anchor="middle" font-family="'PingFang SC','Hiragino Sans GB','Noto Sans SC',-apple-system,sans-serif" font-size="16" font-weight="500" fill="#5c5c63">复制整段对话</text>
+<g transform="translate(575 424)" fill="none" stroke="#4b4b52" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"><path d="M14 21h1"></path><path d="M14 3h1"></path><path d="M19 3a2 2 0 0 1 2 2"></path><path d="M21 14v1"></path><path d="M21 19a2 2 0 0 1-2 2"></path><path d="M21 9v1"></path><path d="M3 14v1"></path><path d="M3 9v1"></path><path d="M5 21a2 2 0 0 1-2-2"></path><path d="M5 3a2 2 0 0 0-2 2"></path><path d="M7 12h10"></path><path d="M7 16h6"></path><path d="M7 8h8"></path><path d="M9 21h1"></path><path d="M9 3h1"></path></g>
+<text x="596" y="491" text-anchor="middle" font-family="'PingFang SC','Hiragino Sans GB','Noto Sans SC',-apple-system,sans-serif" font-size="16" font-weight="500" fill="#5c5c63">全选对话文本</text>
+<g transform="translate(389 610)" fill="none" stroke="#4b4b52" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"><path d="M12 17V3"></path><path d="m6 11 6 6 6-6"></path><path d="M19 21H5"></path></g>
+<text x="410" y="677" text-anchor="middle" font-family="'PingFang SC','Hiragino Sans GB','Noto Sans SC',-apple-system,sans-serif" font-size="16" font-weight="500" fill="#5c5c63">回到最新</text>
+<g transform="translate(203 424)" fill="none" stroke="#4b4b52" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"><path d="M5 3h14"></path><path d="m18 13-6-6-6 6"></path><path d="M12 7v14"></path></g>
+<text x="224" y="491" text-anchor="middle" font-family="'PingFang SC','Hiragino Sans GB','Noto Sans SC',-apple-system,sans-serif" font-size="16" font-weight="500" fill="#5c5c63">跳到顶部</text>
+<circle cx="1190" cy="457" r="300" fill="#000" opacity="0.10" filter="url(#blur)"/>
+<path d="M 977.8679656440357 232.86796564403573 A 300 300 0 0 1 1402.1320343559642 232.86796564403576 L 1190 445 Z" fill="#ffffff" opacity="0.94"/>
+<path d="M 1402.1320343559642 232.86796564403576 A 300 300 0 0 1 1402.1320343559642 657.1320343559643 L 1190 445 Z" fill="#fcfcfd" opacity="0.94"/>
+<path d="M 1402.1320343559642 657.1320343559643 A 300 300 0 0 1 977.8679656440357 657.1320343559643 L 1190 445 Z" fill="#ffffff" opacity="0.94"/>
+<path d="M 977.8679656440357 657.1320343559643 A 300 300 0 0 1 977.8679656440357 232.86796564403576 L 1190 445 Z" fill="#fcfcfd" opacity="0.94"/>
+<circle cx="1190" cy="445" r="300" fill="none" stroke="#e9e9ee" stroke-width="1.2"/>
+<line x1="1259.2964645562818" y1="514.2964645562816" x2="1402.1320343559642" y2="657.1320343559643" stroke="#000" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="1120.7035354437185" y1="514.2964645562816" x2="977.8679656440357" y2="657.1320343559643" stroke="#000" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="1120.7035354437182" y1="375.70353544371835" x2="977.8679656440357" y2="232.86796564403576" stroke="#000" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="1259.2964645562815" y1="375.70353544371835" x2="1402.1320343559642" y2="232.8679656440357" stroke="#000" stroke-opacity="0.05" stroke-width="1"/>
+<circle cx="1190" cy="445" r="98" fill="#ffffff" stroke="#ececf0" stroke-width="1.2"/>
+<circle cx="1190" cy="445" r="11" fill="none" stroke="#ececf0" stroke-width="1"/>
+<circle cx="1190" cy="445" r="4.5" fill="#c3c3c9"/>
+<g transform="translate(1169 238)" fill="none" stroke="#4b4b52" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"><path d="M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z"></path></g>
+<text x="1190" y="305" text-anchor="middle" font-family="'PingFang SC','Hiragino Sans GB','Noto Sans SC',-apple-system,sans-serif" font-size="16" font-weight="500" fill="#5c5c63">工作区文件</text>
+<circle cx="1004" cy="445" r="34" fill="none" stroke="#cfcfd6" stroke-width="1.2" stroke-dasharray="4 5"/>
+<g transform="translate(983 424)" fill="none" stroke="#8e8e96" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"><line x1="4" x2="20" y1="9" y2="9"></line><line x1="4" x2="20" y1="15" y2="15"></line><line x1="10" x2="8" y1="3" y2="21"></line><line x1="16" x2="14" y1="3" y2="21"></line></g>
+<text x="1004" y="491" text-anchor="middle" font-family="'PingFang SC','Hiragino Sans GB','Noto Sans SC',-apple-system,sans-serif" font-size="16" font-weight="500" fill="#8e8e96">引用 / 插入</text>
+<g transform="translate(1355 424)" fill="none" stroke="#4b4b52" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="1"><circle cx="12" cy="12" r="10"></circle><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path><path d="M2 12h20"></path></g>
+<text x="1376" y="491" text-anchor="middle" font-family="'PingFang SC','Hiragino Sans GB','Noto Sans SC',-apple-system,sans-serif" font-size="16" font-weight="500" fill="#5c5c63">浏览器</text>
+<circle cx="1190" cy="631" r="34" fill="none" stroke="#cfcfd6" stroke-width="1.2" stroke-dasharray="4 5"/>
+<g transform="translate(1169 610)" fill="none" stroke="#8e8e96" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"><path d="M12 19h8"></path><path d="m4 17 6-6-6-6"></path></g>
+<text x="1190" y="677" text-anchor="middle" font-family="'PingFang SC','Hiragino Sans GB','Noto Sans SC',-apple-system,sans-serif" font-size="16" font-weight="500" fill="#8e8e96">终端</text>
+<text x="800" y="862" text-anchor="middle" font-family="'PingFang SC','Hiragino Sans GB','Noto Sans SC',-apple-system,sans-serif" font-size="15" font-weight="400" fill="#8b8b92">虚线：参照截图、PI 桌面端暂无对应入口</text>
+</svg>
